@@ -1,0 +1,11 @@
+H:\Work_Space\C#_keylogger\bin\Debug\netcoreapp2.1\C#_keylogger.deps.json
+H:\Work_Space\C#_keylogger\bin\Debug\netcoreapp2.1\C#_keylogger.runtimeconfig.json
+H:\Work_Space\C#_keylogger\bin\Debug\netcoreapp2.1\C#_keylogger.runtimeconfig.dev.json
+H:\Work_Space\C#_keylogger\bin\Debug\netcoreapp2.1\C#_keylogger.dll
+H:\Work_Space\C#_keylogger\bin\Debug\netcoreapp2.1\C#_keylogger.pdb
+H:\Work_Space\C#_keylogger\obj\Debug\netcoreapp2.1\C#_keylogger.csprojAssemblyReference.cache
+H:\Work_Space\C#_keylogger\obj\Debug\netcoreapp2.1\C#_keylogger.csproj.CoreCompileInputs.cache
+H:\Work_Space\C#_keylogger\obj\Debug\netcoreapp2.1\C#_keylogger.AssemblyInfoInputs.cache
+H:\Work_Space\C#_keylogger\obj\Debug\netcoreapp2.1\C#_keylogger.AssemblyInfo.cs
+H:\Work_Space\C#_keylogger\obj\Debug\netcoreapp2.1\C#_keylogger.dll
+H:\Work_Space\C#_keylogger\obj\Debug\netcoreapp2.1\C#_keylogger.pdb
