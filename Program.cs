@@ -9,6 +9,7 @@ namespace C__keylogger
     {
         static void Main(string[] args)
         {
+            const int hidvalue = 0;
             var hideMe = GetConsoleWindow();
             Console.WriteLine("Hello World!");
         }
